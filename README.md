@@ -23,3 +23,6 @@ We are actively investigating the cause of this issue and working towards a reso
 
 #### Help appreciated
 If you have insights or suggestions for resolving this issue, please don't hesitate to reach out. Your feedback is greatly appreciated.
+
+#References
+https://pubs.usgs.gov/unnumbered/70048223/report.pdf
